@@ -8,7 +8,7 @@
 📌 **My Skills:**  
 - 🖥️ Python • PyTorch • MATLAB • Simulink •C# •C++
 - 🤖 Machine Learning • Deep Learning • Control Systems
-- 🔧 **Sensors & Microcontrollers** – Embedded systems, IoT, and real-time data processing    
+- 🔧 Sensors & Microcontrollers – Embedded systems, IoT, and real-time data processing    
 
 🌍 **Beyond Tech:**  
 - ✈️ **AvGeek** – Passionate about aviation  
